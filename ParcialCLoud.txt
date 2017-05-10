@@ -1,0 +1,46 @@
+Temas Parcial
+Desing Thinking: Metodología que tiene como filosofía la innovación como una forma de crear productos y servicios que satisfacen las necesidades de los usuarios haciéndolos parte activa del proceso de creación.
+
+
+Transformación Digital: Nuevos retos, nuevos perfiles, cambios en la forma de trabajar, negocios disruptivos.
+---> 7 puntos
+
+
+Caso de Adobe
+Creative cloud: Adobe prevé CC como una manera para Adobe para lograr un mayor crecimiento al ofrecer un mejor producto a sus clientes y cambiando el modelo de negocio para su Medios digitales.
+
+Riesgos:
+Se podría alienar a muchos consumidores
+Sufrirá caída inicial en los ingresos debido a las tasas de suscripción más bajas.
+Su migración al cliente de licencia perpetua para la suscripción puede ser lento.
+Puede permitir a los competidores para ganar un punto de apoyo
+
+
+Que paso con los clientes?
+Los clientes obtienen nuevos beneficios, comunidad en linea, portabilidad.
+Sin embargo, hubo quejas por parte de algunos clientes, en su mayoria los de fotografía sensibles a los precios y los usuarios no muy recurrentes, tenían miedo de no poder recuperar sus antiguos documentos, seguridad. Falta de educación por parte de Adobe, al inicio hubo una baja pero luego se fueron adaptando.
+
+El mercado aplaudió la estrategía a largo plazo. 
+
+
+---> 3 puntos
+
+
+Examen Practico
+Crear una aplicaci[on php en Bluemix
+Crear una conexion a Github
+Crear una carpeta images
+- Iconos
+Mostrar los datos en una tabla
+Invitar al profesor a al proyecto como administrador
+Crear un bloc de notas
+- pegar el link de la apliacion, y guardarlo con el numero del cuadernillo
+---> 10 puntos
+
+
+Si tienen algun problema 
+Capturar el avance en in imagenes usando paint y ponerlo en la carpeta que nos daran para guardar el bloc de notas
+
+
+compañías de software
+en un proveedor genera ingresos software en caja.
